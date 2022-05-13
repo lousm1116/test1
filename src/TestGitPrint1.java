@@ -11,5 +11,6 @@ public class TestGitPrint1 {
         int a=1;
         int b=2;
         System.out.println("git test2");
+        int c=3;
     }
 }
